@@ -478,27 +478,7 @@ Impact
 
 ---
 
-**Document Version:** 1.0
 **Date:** November 15, 2025
-**Author:** Credit Risk & Data Architecture Team
-**Reviewed by:** Chief Risk Officer
-**Next Review Date:** February 15, 2026 (Quarterly)
-
+**Author:** Dang Tran Thanh
 ---
 
-## TÓM TẮT CHO MANAGEMENT
-
-**✅ Điểm mạnh:**
-1. Automation cao (70%+ auto-approval, eKYC, auto-provision)
-2. Segregation of duties rõ ràng
-3. Hard stop controls cho critical risk (CIC check, same-name disbursement)
-
-**⚠️ Điểm cần cải thiện:**
-1. Model validation frequency (quarterly → monthly)
-2. Stress testing chưa comprehensive
-3. Real-time monitoring dashboard
-4. AI/ML cho fraud detection
-
-**💰 Investment cần thiết:** ~640M VND cho 8 action items
-
-**🎯 Expected outcome:** NPL giảm từ 1.8% → <1.5%, giảm fraud loss 30%, tăng customer satisfaction
